@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anasayfa-Firma İsmi</title>
+</head>
+<body>
+    
+
+<!--NAVBAR START-->
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#">Anasayfa</a>
+                </li>
+                <li>
+                    <a href="C:\Users\yagmu\OneDrive\Masaüstü\frontend_patikası\front-endOdevler\html\calismaHakkimizda.html">Hakkımızda</a>
+                </li>
+                <li>
+                    <a href="#">iletişim</a>
+                </li>
+            </ul>
+        </nav>
+        <hr>
+        <hr>
+
+
+    </header>
+<!--NAVBAR END-->
+
+<!--CONTENT START-->
+    <section>
+    <!--ARTICLES START-->
+        <article>
+            <h3>Birinci Yazi</h3>
+            <img src="https://picsum.photos/id/237/200/300">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates non vitae blanditiis, magnam dignissimos est quaerat quae consectetur cum nesciunt placeat iusto iure fuga reprehenderit dolorem autem perspiciatis vel aspernatur.</p>
+
+            <ol>
+                <li>Lorem ipsum dolor sit amet.</li>
+                <li>Id nisi rem quas ducimus.</li>
+                <li>Dolore fugiat temporibus exercitationem minima?</li>
+            </ol>
+            <hr>
+        </article>
+        <article>
+            <h3>İkinci Yazi</h3>
+            <img src="https://picsum.photos/id/257/200/300">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque veniam earum, nisi non adipisci libero. Iure, eaque? Nostrum debitis laborum ratione alias dolore non iste reprehenderit unde, dicta, hic porro.</p>
+
+            <ul>
+                <li>Lorem ipsum dolor sit amet consectetur.</li>
+                <li>Tenetur necessitatibus dignissimos quo rem rerum.</li>
+                <li>Nemo itaque nulla velit deserunt quis.</li>
+            </ul>
+            <hr>
+        </article>
+        
+    <!--ARTICLES END-->
+    </section>
+<!--CONTENT END-->
+
+<!--FOOTER START-->
+<footer>
+    <nav>
+        <ul>
+            <li>
+                <a href="#">Anasayfa</a>
+            </li>
+            <li>
+                <a href="C:\Users\yagmu\OneDrive\Masaüstü\frontend_patikası\front-endOdevler\html\calismaHakkimizda.html">Hakkımızda</a>
+            </li>
+            <li>
+                <a href="#">iletişim</a>
+            </li>
+        </ul>
+    </nav>
+</footer>
+<!--FOOTER END-->
+
+    
+</body>
+</html>

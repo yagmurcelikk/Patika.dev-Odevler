@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Çikolata Topları</title>
+
+    <style>
+        div {
+            margin-top: auto;
+            margin-left: 33%;
+        }
+
+        img {
+            margin-left: 35%;
+        }
+    </style>
+
+
+    
+</head>
+<body>
+    <h1><i>...Çikolata Topları...</i></h1>
+    <p><i>Hazırlanması kolay ve hızlı çikolata toplarına bayılacaksınız! Sadece 5 malzeme ile 5 dakikada hazırlayabileceğiniz tarifimiz aşağıdadır.</i></p>
+
+    <img src="https://i.lezzet.com.tr/images-xxlarge-recipe/biskuvili-cikolata-toplari-1a88c59c-a9d9-43d9-9739-afd8897ed396.jpg" alt="çikolata topları" width="400px" height="300px">
+
+    <div>
+        <span style="color: brown;"><b>Kaç Kişilik:</b></span> <span>6 --</span> <span style="color: brown;"><b>Hazırlama Süresi:</b></span> <span>5 dakika --</span>
+        <span style="color: brown;"><b>Pişirme Süresi:</b></span> <span>0 dakika</span> 
+
+        <br>
+        <h3 style="color: brown;">Malzemeler</h3>
+        <ul>
+            <li>1 paket petibör bisküvi</li>
+            <li>1 su bardağı süt</li>
+            <li>2 yemek kaşığı tereyağ</li>
+            <li>1 yemek kaşığı kakao</li>
+            <li>4-5 yemek kaşığı Hindistan cevizi <i>(isteğe bağlı)</i></li>
+        </ul>
+
+        <h3 style="color: brown;">Nasıl Yapılır?</h3>
+        <ol>
+            <li>Öncelikle büsküvimizi elimizle küçük parçalara ayırıyor ve bir kaba alıyoruz.</li>
+            <li>Daha sonra azar azar sütü ekliyoruz.</li>
+            <li>Tereyağını eritip ekliyoruz.</li>
+            <li>Kakaoyu da ekleyip iyice karıltırıyoruz.</li>
+            <li>Son olarak elimizle küçük toplar yapıp isterseniz hindistan cevizine buluyoruz.</li>
+            <li>Çikolata Toplarımız hazır!</li>
+        </ol>
+
+        <h2 align="right"><i>... Afiyet olsun :) ...</i></h3>
+    </div>
+    <br><br><br>
+
+
+
+</body>
+</html>

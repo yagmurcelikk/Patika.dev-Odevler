@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Ödev 1</title>
+
+    <!--İkon linki-->
+    <script src="https://kit.fontawesome.com/c51b883833.js" crossorigin="anonymous"></script>
+
+
+    <style>
+        body{
+            text-align: center;
+        }
+
+        .kurs{
+            font-size: large;
+        }
+
+        .iletisim{
+            margin-top: 20%;
+        }
+
+    </style>
+
+
+</head>
+<body>
+
+    <h1 id="bas" style="color: red;">Online Dersler</h1>
+    <header id="anasayfa">
+        <a href="#anasayfa" style="text-decoration: none; color: black;"><i class="fa-solid fa-house">&nbsp;</i>Anasayfa</a><span>&nbsp;&nbsp;&nbsp;</span>
+        <a href="#iletisim" style="text-decoration: none; color: black;"><i class="fa-solid fa-school">&nbsp;</i>İletişim</a><span>&nbsp;&nbsp;&nbsp;</span>
+        <a href="C:\Users\yagmu\OneDrive\Masaüstü\frontend_patikası\front-endOdevler\css\kurslar.html" style="text-decoration: none; color: black;"><i class="fa-solid fa-address-card">&nbsp;</i>Kurslarımız</a><span>&nbsp;&nbsp;&nbsp;</span>
+    </header>  
+    
+    <hr style="width:100%;height:15px; background-color: rgb(156, 156, 156);">
+    
+    <article class="kurs">
+        <ol type="i" style="list-style-position: inside;">
+            <li>Liseye Hazırlık Kursu</li>
+            <li>Üniversiteye Hazırlık Kursu</li>
+            <li>YDS Kursu</li>
+        </ol>
+    </article>
+
+    <hr style="width:100%;height:15px; background-color: rgb(156, 156, 156);">
+    <br><br>
+
+    <article>
+        <p>Evinizin rahatlığında vaktinizi yol, trafik gibi durumlara harcamadan, alanlarında etkin öğretmenlerden dilediğiniz kursu online olarak alabilirsiniz.</p>
+        <p>Dersinizin konu anlatım kitapları ve soru bankaları da adresinize kargolanmaktadır.</p>
+        <p>Online sınıflarımız maksimum 20 kişiden oluşmaktadır.</p>
+        <p>Ayrıca her ders için haftada 1 saat özel etüt saatleri de vardır. Bu saatlerde konu tekrarı yapabilir veya çözemediğiniz soruları öğretmeninizle beraber çözebilirsiniz.</p>
+
+    </article>
+
+    <img width="500px" height="300px" src="data:image/jpeg;base64,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">
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <img width="500px" height="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_NjoCWVXlklY5_ByfZLiGrn-k1ZfTWLqYIA&usqp=CAU">
+
+    <footer class="iletisim" id="iletisim">
+        <hr>
+        <p>
+            <i><b>Kurslara katılmak veya bilgi almak için aşağıdaki iletişim bilgilerinden bize ulaşabilirsiniz.</b></i><br><br>
+            <i class="fa-solid fa-phone">&nbsp;</i><a style="text-decoration: none; color: black;" href="tel:055555555">0555 999 8877</a><br><br>
+            <i class="fa-solid fa-envelope">&nbsp;</i><a style="text-decoration: none; color: black;" href="mailto:kurs@gmail.com">kurs@gmail.com</a><br><br>
+            <a href="#bas"><i>Sayfanın başına dönmek için tıklayın</i></a>
+        </p>
+    </footer>
+
+    
+    
+    
+
+    
+
+
+    
+</body>
+</html>
